@@ -1,7 +1,6 @@
 # Data types and conditional statements.
  
  ## This bootcamp topic covers three tasks and one challange.
- ## Table of content:
 
 ```markdown
 ## Table of Contents:
