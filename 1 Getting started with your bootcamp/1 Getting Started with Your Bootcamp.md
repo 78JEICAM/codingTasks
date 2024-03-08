@@ -1,4 +1,4 @@
-# Getting started with your bootcamp
+# Getting started with your bootcamp !
 
 ## Table of Content:
 - [Practical Task 1](#practical-task-1)
@@ -98,4 +98,3 @@ No installation instructions required for this task.
 4. Run the script by typing `python details.py` and press Enter.
 5. Follow the on-screen instructions to input your details.
 6. View the formatted output printed in the console.
-
