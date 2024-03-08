@@ -1,5 +1,7 @@
-# codingTasks
- ## This is readme file for this task
+# Iteration
+
+ ##  Iteration in Python refers to the process of repeatedly executing a block of code until a certain condition is met. It allows you to perform tasks such as traversing through elements in a sequence, processing items in a collection, or executing a set of statements multiple times.
+
 # Practical Task 1 - Number Average Calculator
 
 ## Description:
