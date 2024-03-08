@@ -1,10 +1,7 @@
-# Getting started with your bootcamp !
-
 ## Table of Content:
 - [Practical Task 1](#practical-task-1)
 - [Practical Task 2](#practical-task-2)
 - [Practical Task 3](#practical-task-3)
-- [Challenge 1](#challenge-1)
 
 ---
 
@@ -35,7 +32,7 @@ No installation instructions required for this task.
 The provided instructions outline the creation and execution of two script files: `file_cd.bat` and `ifExample.bat`. Follow the steps provided in the instructions.
 
 ### Credits:
-This code was written by [Your Name].
+This code was written by [Maciej Naworski].
 
 ---
 
@@ -66,7 +63,7 @@ No installation instructions required for this task.
 6. View the greeting message printed in the console.
 
 #### Credits:
-This code was written by [Your Name].
+This code was written by [Maciej Naworski].
 
 ---
 
