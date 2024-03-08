@@ -1,4 +1,7 @@
-# codingTasks
+# Programming with user defined functions.
+
+## This two tasks listed below cover all objectives of this task.
+
  # Practical Task 1 - Holiday Cost Calculator
 
 ## Description:
